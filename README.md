@@ -31,3 +31,12 @@ redis-clone-js/
 ├── server.js
 ├── package.json
 └── README.md
+
+## How to Run
+node server.js
+node client.js
+
+
+
+
+
